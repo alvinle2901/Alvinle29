@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I am a Software Developer living in Finland. A trave addict who loves photorgraphy and baking :)
+- 👨‍💻 I am a Software Developer living in Finland. A travel addict (been to 16+ countries) who loves photography and baking :)
 - 😄 My main focus is on Full-stack Development and Mobile Development (Flutter, React Native)
 - 👯 I’m looking to collaborate on front-end/back-end/full-stack projects
 - <a href="https://portfolio-bach.vercel.app/" > Check out my portfolio </a>
