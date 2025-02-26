@@ -4,7 +4,8 @@
 - 😄 My main focus is on Full-stack Development and Mobile Development (Flutter, React Native)
 - 👯 I’m looking to collaborate on front-end/back-end/full-stack projects
 - <a href="https://bachle.vercel.app/" > Check out my portfolio </a>
-- 📫 Ping me: <a href="https://www.linkedin.com/in/bach-l-298105138/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="30px"/></a> or bachlequang29@gmail.com
+- 📫 Ping me: <a href="https://www.linkedin.com/in/bach-le-298105138/"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="30px"/></a> or bachlequang29@gmail.com
+- For any recruiters who are seeing this: Somehow my LinkedIn link was added an "e" to the link so the link might not working in my CV, please click on the LinkedIN button above! 
 
 #### Frontend
 
